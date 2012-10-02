@@ -1,0 +1,19 @@
+!!! 5
+%html
+  %head
+    %title= 'Devon Blandin'
+    %meta{ :content => 'A Software Engineer in Chicago, IL', :name => 'description' }
+    %meta{ :content => 'Devon Blandin', :name => 'author' }
+    %meta{ :content => '3 days', :name => 'revisit-after' }
+    %link{ :href => '//netdna.bootstrapcdn.com/bootswatch/2.1.0/simplex/bootstrap.min.css', :rel => 'stylesheet' }
+    %script{ :src => '//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/js/bootstrap.min.js' }
+  %body
+    .container
+      .content
+        .page-header
+          %H1 Devon Blandin
+          I am a <strong>software engineer</strong> focusing on web and mobile application development. My academic and professional background includes work in computer science, design, and human-computer interaction.
+        .row
+          .span10
+            = yield
+      %footer
