@@ -44,7 +44,7 @@ DePaul University :: Interactive Media
 
 * After taking many object-oriented design and development courses during my studies at DePaul University, I feel well-prepared to jump into mobile application development. Starting with the iOS platform, I plan to release an iPhone application for the Radio DePaul radio station utilizing the web service I built for its back-end system.
 
-* I greatly benefit from many open-source projects available online today. I not only benefit from the utility of projects like Ruby on Rails, Git, Twitter Bootstrap but also from looking through the source code of other talented developers. I hope to contribute more actively the open-source community in the future, possibly by converting the Radio DePaul system into an open-source management tool useful for any small radio station in the country.
+* I greatly benefit from many open-source projects available online today. I not only benefit from the utility of projects like Ruby on Rails, Git, Twitter Bootstrap but also from looking through the source code of other talented developers. I hope to contribute more actively to the open-source community in the future, possibly by converting the Radio DePaul system into an open-source management tool useful for any small radio station in the country.
 
 ## :: employment
 
