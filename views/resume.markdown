@@ -48,6 +48,10 @@ DePaul University :: Interactive Media
 
 ## :: employment
 
+* __October ‘12 — Present /__ dScout :: Software Engineer
+
+  Full-stack developer working with Ruby on Rails, Backbone.js, Redis, Memcached, PostgreSQL, and more for dScout, a web and mobile service that makes it incredibly easy to engage audiences in sharing real-world experiences, in the moment ideas and real-time feedback.
+
 * __June ‘09 — Present /__ Radio DePaul :: Web Developer/Designer
 
   Ruby on Rails, HTML/CSS, Javascript including Ajax, API Creation, Logo Design, Print & Web Ad Design, T-Shirt Design. Radio DePaul is currently running a unique Ruby on Rails system that I engineered integrating a PostgreSQL database, Amazon S3 file hosting, image manipulation, scheduling logic, role-based authentication, a RESTful API, and a robust back-end administrative interface.
@@ -75,7 +79,7 @@ DePaul University :: Interactive Media
   Enginnered a custom Wordpress CMS system from designs provided by client David Pfeffer utilizing a 960 css grid layout
 
 * __Nov ‘10 — Nov ‘11 /__ Marbles: The Brain Store :: Web Developer
-  
+
   HTML/CSS, Javascript, SiteKiosk development. Engineered a software demo system to allow for retail customers to try any one of a number of software titles offered by the company
 
 * __Nov ‘09 /__ Blueprint Chicago :: Web Developer
