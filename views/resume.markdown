@@ -1,5 +1,4 @@
  * [dblandin@gmail.com](mailto:dblandin@gmail.com)
- * (312) 725-0362
  * [@dblandin]( http://twitter.com/dblandin )
  * [linkedin](http://linkedin.com/in/dblandin)
  * [github](http://github.com/dblandin)
